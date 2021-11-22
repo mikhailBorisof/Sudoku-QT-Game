@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="cat">cat1.png</file>
+        <file alias="saving">download.png</file>
+        <file alias="openicon">folder_open.png</file>
+    </qresource>
+</RCC>

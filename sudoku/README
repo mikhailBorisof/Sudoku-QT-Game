@@ -1,1 +1,10 @@
-THIS IS A SUDOKU GAME FOR WINDOWS WITH THE ABILITY TO SAVE AND OPEN GAME SESSIONS
+THIS IS A SUDOKU GAME FOR WINDOWS 
+
+Main features:
+- save and open game sessions
+- 5 difficulty levels
+- game mode with hints
+
+Only for Qt 4.7 and earlier 
+
+To launch without QT Creator download "dll and exe" folder
